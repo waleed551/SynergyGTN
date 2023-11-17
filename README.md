@@ -3,3 +3,7 @@ Drug combinations are frequently used to treat cancer to reduce side effects and
 
 # Graphical Abstract 
 ![model_arc](https://github.com/waleed551/SynergyGTN/assets/84854489/c53bdad7-de00-4672-93ec-dfb7a1f0e34c)
+
+# Web-Server:
+we developed a web server tool to facilitate the pharmaceutical industry and researchers, as
+available at: http://nsclbio.jbnu.ac.kr/tools/SynergyGTN/
